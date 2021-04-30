@@ -1,2 +1,5 @@
-# zero-md-kitchen-sink
-Kitchen sink of all things GFM 
+# barnone.js
+
+> The only top bar progress indicator you need, bar none.
+
+WIP
